@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/ElenaShaternik/ComposersQuiz.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dburgosp/EducationalApp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$" />
