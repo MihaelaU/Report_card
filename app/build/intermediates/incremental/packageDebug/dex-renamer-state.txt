@@ -1,0 +1,7 @@
+#Mon Jun 05 18:10:38 CEST 2017
+base.0=E\:\\Reportcard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_499d574243130961629a74d7421b57c68600d0c2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Reportcard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9d3105d0751cbb4f67af8461459ba8f1471adfdc\\classes.dex
+base.1=E\:\\Reportcard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9d3105d0751cbb4f67af8461459ba8f1471adfdc
+file.0=E\:\\Reportcard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_499d574243130961629a74d7421b57c68600d0c2\\classes.dex

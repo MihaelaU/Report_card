@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from E:\Reportcard\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Reportcard\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Reportcard\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Reportcard\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Reportcard\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Reportcard\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ursum\.android\build-cache\1f59119b0da09a0c0edfe4cc103968226cbd0fe4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ursum\.android\build-cache\9d819b544d7042ec18f140b11fb1ad74222a6487\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ursum\.android\build-cache\de8dcb99999f41a602ba7eeb3babde842ca41746\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ursum\.android\build-cache\5cea6da4a5d54106ef8a434db915e9bad1159e94\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ursum\.android\build-cache\a43f24d1fd5217f372f6df5852433283c96ca87d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ursum\.android\build-cache\52791586a7f7e65eb62f82499073c8379057535d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ursum\.android\build-cache\bc2f75e6bcf492ac927c399bf19db152b2f62fc8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ursum\.android\build-cache\47144ffc720c28cd522a5a4e09c5ea1950a9b04f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ursum\.android\build-cache\ea07af66816b8a938808b303883c6deaa83765e1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ursum\.android\build-cache\51b17e4ba99a6dd8324d9fd3c7741b1711247a28\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.reportcard.ReportCardView
+ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:12:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\Reportcard\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\Reportcard\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ursum\.android\build-cache\1f59119b0da09a0c0edfe4cc103968226cbd0fe4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ursum\.android\build-cache\9d819b544d7042ec18f140b11fb1ad74222a6487\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ursum\.android\build-cache\de8dcb99999f41a602ba7eeb3babde842ca41746\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ursum\.android\build-cache\5cea6da4a5d54106ef8a434db915e9bad1159e94\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ursum\.android\build-cache\a43f24d1fd5217f372f6df5852433283c96ca87d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ursum\.android\build-cache\52791586a7f7e65eb62f82499073c8379057535d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ursum\.android\build-cache\bc2f75e6bcf492ac927c399bf19db152b2f62fc8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ursum\.android\build-cache\47144ffc720c28cd522a5a4e09c5ea1950a9b04f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ursum\.android\build-cache\ea07af66816b8a938808b303883c6deaa83765e1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ursum\.android\build-cache\51b17e4ba99a6dd8324d9fd3c7741b1711247a28\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ursum\.android\build-cache\1f59119b0da09a0c0edfe4cc103968226cbd0fe4\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Reportcard\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Reportcard\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Reportcard\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Reportcard\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ursum\.android\build-cache\1f59119b0da09a0c0edfe4cc103968226cbd0fe4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ursum\.android\build-cache\9d819b544d7042ec18f140b11fb1ad74222a6487\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ursum\.android\build-cache\de8dcb99999f41a602ba7eeb3babde842ca41746\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ursum\.android\build-cache\5cea6da4a5d54106ef8a434db915e9bad1159e94\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ursum\.android\build-cache\a43f24d1fd5217f372f6df5852433283c96ca87d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ursum\.android\build-cache\52791586a7f7e65eb62f82499073c8379057535d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ursum\.android\build-cache\bc2f75e6bcf492ac927c399bf19db152b2f62fc8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ursum\.android\build-cache\47144ffc720c28cd522a5a4e09c5ea1950a9b04f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ursum\.android\build-cache\ea07af66816b8a938808b303883c6deaa83765e1\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ursum\.android\build-cache\1f59119b0da09a0c0edfe4cc103968226cbd0fe4\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ursum\.android\build-cache\1f59119b0da09a0c0edfe4cc103968226cbd0fe4\output\AndroidManifest.xml:26:9-47
