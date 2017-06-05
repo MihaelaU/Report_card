@@ -66,5 +66,4 @@ public class ReportCardAdapter extends ArrayAdapter<RecordCard> {
 
 
 }
-
 //test upload

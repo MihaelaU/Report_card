@@ -41,6 +41,4 @@ public class ReportCardView extends AppCompatActivity {
         });
     }
 }
-
-
 //test upload
