@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "E:\\Reportcard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-640x360\\values-640x360.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "E:\\Reportcard\\app\\src\\main\\res\\values-360x640\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 47,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "E:\\Reportcard\\app\\src\\main\\res\\values-360x640\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 151,
+                    "endColumn": 50,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "E:\\Reportcard\\app\\src\\main\\res\\values-360x640\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endColumn": 50,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 50,
+                    "endOffset": 248
+                },
+                "from": {
+                    "file": "E:\\Reportcard\\app\\src\\main\\res\\values-360x640\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 253,
+                    "endColumn": 50,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "E:\\Reportcard\\app\\src\\main\\res\\values-360x640\\dimens.xml"
+                }
+            }
+        ]
+    }
+]
